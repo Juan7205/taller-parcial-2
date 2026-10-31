@@ -5,8 +5,8 @@ Juego de batallas entre criaturas usando **clases abstractas** y **polimorfismo*
 
 ## Integrantes
 
-- Juan (rama `feature/criatura-dragon`: clase abstracta `Criatura` y subclase `Dragon`).
-- [Nombre del compañero] (rama `feature/criaturas-restantes`: subclases `Mago`, `Guerrero` y clase `Main`).
+- Juan Sebastian Diaz Valencia
+- Deibit Arley urbano gurrute
 
 ## Estructura del proyecto
 
@@ -46,7 +46,6 @@ src/test/java/criaturas/
 
 La IA se usó como apoyo para completar las clases faltantes, generar las pruebas unitarias y revisar el código. Prompts principales:
 
-- "Completa lo que falta del ejercicio: implementa Mago y Guerrero extendiendo la clase abstracta Criatura, cada uno con una forma única de atacar y defenderse."
 - "Crea la clase Main que simule batallas entre criaturas hasta que una quede sin salud, mostrando la salud tras cada ataque."
 - "Genera pruebas unitarias con JUnit para Criatura, Dragon, Mago y Guerrero."
 
